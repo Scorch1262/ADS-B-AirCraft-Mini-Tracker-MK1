@@ -1,5 +1,7 @@
 # ADS-B Map 1.0.0 – Waveshare ESP32-S3-Touch-AMOLED-1.75
 
+![ADS-B Map](docs/preview.png)
+
 Live-Flugzeugkarte für das runde 466 × 466 AMOLED-Board.
 
 - dunkle Karte (CARTO „dark_all“, OpenStreetMap-Daten), mit dem Finger verschiebbar, Zoom über **+ / −**
